@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 import pages.AlertPage;
 
-public class AlertTest extends BaseTest{
+public class AlertTest{
 
 
     @Test

@@ -7,7 +7,7 @@ import pages.DualListPage;
 
 import java.util.HashMap;
 
-public class DualListBoxTest extends BaseTest{
+public class DualListBoxTest{
 
 
     @Test

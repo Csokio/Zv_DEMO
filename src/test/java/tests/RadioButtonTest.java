@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import pages.BasicPage;
 import pages.RadioPage;
 
-public class RadioButtonTest extends BaseTest{
+public class RadioButtonTest{
 
 
     @Test

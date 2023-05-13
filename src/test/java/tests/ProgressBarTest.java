@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import pages.Page;
 import pages.ProgressBarPage;
 
-public class ProgressBarTest extends BaseTest{
+public class ProgressBarTest{
 
 
     @Test

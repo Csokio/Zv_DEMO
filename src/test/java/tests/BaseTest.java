@@ -1,4 +1,4 @@
-package tests;
+/*package tests;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.AfterAll;
@@ -15,7 +15,7 @@ import java.time.Duration;
 
 public class BaseTest {
 
-    /*public WebDriver driver;
+    public WebDriver driver;
     protected WebDriverWait wait;
 
     @BeforeAll
@@ -23,7 +23,7 @@ public class BaseTest {
     {
         Page page = new Page();
 
-    }*/
+    }
 
     @AfterAll
     public static void afterAll()
@@ -31,4 +31,4 @@ public class BaseTest {
         Page.closeDriver();
     }
 
-}
+}*/

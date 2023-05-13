@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import pages.BasicPage;
 
-public class InputFieldTest extends BaseTest{
+public class InputFieldTest{
 
 
     @Test
