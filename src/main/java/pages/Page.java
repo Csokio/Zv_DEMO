@@ -36,13 +36,13 @@ public class Page {
         }
     }
 
+
     public static void closeDriver() {
         if (driver != null) {
             driver.close();
             driver = null;
         }
     }
-
 
     protected void scrollIntoView(By xpath)
     {
